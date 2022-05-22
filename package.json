@@ -1,0 +1,8 @@
+{
+  "name": "sujeito-pizza-api",
+  "version": "1.0.0",
+  "description": "sistema para gerenciar pedidos dos clientes, mesa e order bump",
+  "main": "server.ts",
+  "author": "Patric Oliveira <patric.eng.computation@gmail.com>",
+  "license": "MIT"
+}
